@@ -1,0 +1,31 @@
+# Buildozer files
+.buildozer/
+bin/
+
+# Build files
+build/
+dist/
+
+# PyInstaller spec files (if you don't want to commit them)
+*.spec
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

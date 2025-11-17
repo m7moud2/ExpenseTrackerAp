@@ -1,0 +1,252 @@
+{
+    "mohamed3bdelkawy": {
+        "name": "mohamed3bdelkawy",
+        "password": "40c2ae321afb7820731b2c0ba3d66ee834c053a8de1e7c5c0bdb18e702356866",
+        "employee_id": "01014289174",
+        "department": "devops",
+        "email": "mohamed3bdelkawy@gameil.com",
+        "username": "mohamed3bdelkawy",
+        "expenses": [],
+        "payment_method": "نقدي",
+        "company_name": "غير محدد"
+    },
+    "MarwanTarek": {
+        "name": "MarwanTarek",
+        "password": "8802c155c7be6600e6e0d2a0db232e3823c4b30752bd4ac72ba100585f66f47e",
+        "employee_id": "0 10 21704564⁩",
+        "department": "Devops",
+        "email": "0 10 21704564⁩",
+        "username": "MarwanTarek",
+        "expenses": [],
+        "payment_method": "نقدي",
+        "company_name": "غير محدد"
+    },
+    "mahmoud Abdelkawy": {
+        "name": "mahmoud",
+        "password": "5df3f3a596a6e564d5948ecd998321b9de173a3b5cb85c1940386ca7920e9937",
+        "employee_id": "01069813210",
+        "company_name": "A-Eye Tech",
+        "department": "technician",
+        "email": "mahmoud Abdelkawy",
+        "payment_method": "نقدي",
+        "username": "mahmoud Abdelkawy",
+        "expenses": [
+            {
+                "date": "2025-11-03",
+                "from": "النزهه الجديده",
+                "to": "جوزيف تيتو",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 20.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-11-08 03:25:19",
+                "updated_at": "2025-11-08 03:28:04"
+            },
+            {
+                "date": "2025-11-03",
+                "from": "جوزيف تيتو",
+                "to": "بنها",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 70.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-11-08 03:26:19",
+                "updated_at": "2025-11-08 03:28:14"
+            },
+            {
+                "date": "2025-11-04",
+                "from": "بنها",
+                "to": "الدائري",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 25.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-11-08 03:27:51"
+            },
+            {
+                "date": "2025-11-04",
+                "from": "الدائري",
+                "to": "بنها",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 30.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-11-08 03:28:58"
+            },
+            {
+                "date": "2025-11-05",
+                "from": "بنها",
+                "to": "المنطقه الصناعيه اكتوبر",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 60.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-11-08 03:30:08",
+                "updated_at": "2025-11-08 03:31:18"
+            },
+            {
+                "date": "2025-11-05",
+                "from": "المنطقه الصناعيه اكتوبر",
+                "to": "بنها",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 60.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-11-08 03:31:06"
+            },
+            {
+                "date": "2025-11-03",
+                "from": "بنها",
+                "to": "النزهه الجديده",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 50.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-11-11 17:33:38"
+            }
+        ]
+    },
+    "MarwanTarek1": {
+        "name": "MarwanTarek1",
+        "password": "8802c155c7be6600e6e0d2a0db232e3823c4b30752bd4ac72ba100585f66f47e",
+        "employee_id": "01021704564",
+        "company_name": "A-Eye Tech",
+        "department": "DevOps",
+        "email": "MarwanTarek",
+        "payment_method": "أخرى",
+        "username": "MarwanTarek1",
+        "expenses": [
+            {
+                "date": "2025-10-06",
+                "from": "cib",
+                "to": "cascad",
+                "type": "أوبر",
+                "payment_method": "نقدي",
+                "amount": 584.0,
+                "notes": "welcom",
+                "receipt": "/Users/mahmoudabdelkawy/Downloads/WhatsApp Image 2025-07-07 at 12.21.30.jpeg"
+            },
+            {
+                "date": "2025-10-06",
+                "from": "fkih",
+                "to": "ejfnksk",
+                "type": "كريم",
+                "payment_method": "أخرى",
+                "amount": 888.0,
+                "notes": "صباح الخير",
+                "receipt": "/Users/mahmoudabdelkawy/Downloads/WhatsApp Image 2025-07-07 at 12.21.30.jpeg"
+            }
+        ]
+    },
+    "Aya Ali": {
+        "name": "Aya Ali",
+        "password": "215c5c0acb0d5b28690a2f00d9b505f1810a303986cd34ec21cde497efd69851",
+        "employee_id": "01012345678",
+        "company_name": "A-Eye Tech",
+        "department": "DevOps",
+        "email": "Aya Ali@gamil.com",
+        "expenses": [
+            {
+                "date": "2025-10-06",
+                "from": "banha",
+                "to": "cib",
+                "type": "أخرى",
+                "payment_method": "إنستاباي",
+                "amount": 300.0,
+                "notes": "smart valiig",
+                "receipt": "/Users/mahmoudabdelkawy/Downloads/WhatsApp Image 2025-07-07 at 12.21.30.jpeg",
+                "added_at": "2025-10-07 00:52:15",
+                "updated_at": "2025-10-07 00:52:15"
+            }
+        ],
+        "username": "Aya Ali",
+        "payment_method": "فيزا"
+    },
+    "Mohamed Abdelkawy": {
+        "name": "Mohamed Abdelkawy",
+        "password": "0c839d57a2a2b112b32168480c877e6400b7ddbe41e28a11a928bdb8f940e2d3",
+        "employee_id": "01014289174",
+        "company_name": "A-Eye Tech",
+        "department": "DevOps",
+        "email": "m.abdelkawy@aeyetechlabs.com",
+        "payment_method": "نقدي",
+        "expenses": [
+            {
+                "date": "2025-09-02",
+                "from": "CIB command center",
+                "to": "home",
+                "type": "تاكسي",
+                "payment_method": "نقدي",
+                "amount": 200.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-10-08 00:22:22"
+            },
+            {
+                "date": "2025-09-03",
+                "from": "Home",
+                "to": "CIB",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 50.0,
+                "notes": "ميكروباص",
+                "receipt": null,
+                "added_at": "2025-10-08 00:24:28"
+            },
+            {
+                "date": "2025-09-03",
+                "from": "Home",
+                "to": "CIB",
+                "type": "تاكسي",
+                "payment_method": "نقدي",
+                "amount": 50.0,
+                "notes": "",
+                "receipt": null,
+                "added_at": "2025-10-08 00:25:42",
+                "updated_at": "2025-10-08 00:28:21"
+            },
+            {
+                "date": "2025-09-03",
+                "from": "CIB",
+                "to": "Home",
+                "type": "أوبر",
+                "payment_method": "نقدي",
+                "amount": 282.0,
+                "notes": "",
+                "receipt": "/Users/mahmoudabdelkawy/Downloads/8446dcfa-2b07-4911-8139-a58dcb5b45d0.jpeg",
+                "added_at": "2025-10-08 00:27:28"
+            },
+            {
+                "date": "2025-10-01",
+                "from": "Home",
+                "to": "CIB",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 50.0,
+                "notes": "ميكروباص",
+                "receipt": null,
+                "added_at": "2025-10-08 00:28:58"
+            },
+            {
+                "date": "2025-10-01",
+                "from": "CIB",
+                "to": "Home",
+                "type": "أخرى",
+                "payment_method": "نقدي",
+                "amount": 50.0,
+                "notes": "ميكروباص",
+                "receipt": null,
+                "added_at": "2025-10-08 00:29:31"
+            }
+        ],
+        "created_at": "2025-10-08 00:20:27",
+        "username": "Mohamed Abdelkawy"
+    }
+}
